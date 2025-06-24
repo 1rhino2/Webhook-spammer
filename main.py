@@ -13,7 +13,7 @@ webhook.set_content(title='1rhino2 Spammer',
                     description=message,
                     color=0xF58CBA)
 
-webhook.set_footer(text='made by: b00mek#1314')
+webhook.set_footer(text='made by: 1rhino2')
 
 
 
